@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **hello@canokay.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-readme-stats.vercel.app/api/top-langs/?username=canokay&layout=compact&hide=html" alt="canokay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canokay&show_icons=true" alt="canokay" /></p>
 
