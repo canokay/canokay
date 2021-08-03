@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [codeigniter-dashboard](https://github.com/canokay/codeigniter-dashboard)
 
-- 👯 I’m looking to collaborate on [ride-explore](https://github.com/canokay/ride-explore)
-
 - 👨‍💻 All of my projects are available at [here](https://github.com/canokay?tab=repositories)
 
 - 📝 I regulary write articles on [https://canokay.com](https://canokay.com)
