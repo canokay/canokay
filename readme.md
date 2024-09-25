@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canokay" alt="canokay" /> </p>
 
-- 🔭 I’m currently working on [codeigniter-dashboard](https://github.com/canokay/codeigniter-dashboard)
-
 - 👨‍💻 All of my projects are available at [here](https://github.com/canokay?tab=repositories)
 
 - 📝 I regulary write articles on [https://canokay.com](https://canokay.com)
