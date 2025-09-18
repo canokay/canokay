@@ -5,12 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/canokay?tab=repositories)
 
-- 📝 I regulary write articles on [https://canokay.com](https://canokay.com)
+- 📝 I regulary write articles on [https://canokay.com.tr](https://canokay.com.tr)
 
-- 📫 How to reach me **hello@canokay.com**
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canokay&show_icons=true" alt="canokay" /></p>
 
 <p align="center">
 <a href="https://dev.to/canokay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="canokay" height="30" width="30" /></a>
